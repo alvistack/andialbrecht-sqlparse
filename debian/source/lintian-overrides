@@ -1,0 +1,5 @@
+python-sqlparse source: file-without-copyright-information
+python-sqlparse source: no-debian-changes
+python-sqlparse source: source-contains-prebuilt-windows-binary
+python-sqlparse source: source-is-missing
+python-sqlparse source: source-package-encodes-python-version

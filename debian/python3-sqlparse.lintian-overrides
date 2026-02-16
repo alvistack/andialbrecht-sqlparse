@@ -1,0 +1,4 @@
+python3-sqlparse: copyright-without-copyright-notice
+python3-sqlparse: initial-upload-closes-no-bugs
+python3-sqlparse: no-manual-page
+python3-sqlparse: zero-byte-file-in-doc-directory
